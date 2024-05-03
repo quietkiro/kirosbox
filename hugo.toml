@@ -1,4 +1,5 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://kirosbox.com/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = "kiro's box"
 theme = 'nostyleplease'
+pluralizeListTitles = false

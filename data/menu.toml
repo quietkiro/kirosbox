@@ -1,0 +1,33 @@
+[[entries]]
+title = "links"
+
+  [[entries.entries]]
+  title = "github"
+  url = "https://github.com/quietkiro"
+
+  [[entries.entries]]
+  title = "rss"
+  url = "index.xml"
+
+
+[[entries]]
+title = "posts by category"
+  [[entries.entries]]
+  title = "testing"
+  [entries.entries.post_list]
+  section = "testing"
+  limit = 5
+  show_more = true
+  show_more_text = "See more posts..."
+  show_more_url = "testing"
+
+
+[[entries]]
+title = "all posts"
+
+  [entries.post_list]
+  limit = 5
+  show_more = true
+  show_more_text = "See archive..."
+  show_more_url = "posts"
+
