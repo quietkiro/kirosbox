@@ -13,13 +13,13 @@ title = "links"
 [[entries]]
 title = "posts by category"
   [[entries.entries]]
-  title = "testing"
+  title = "recovery"
   [entries.entries.post_list]
-  section = "testing"
-  limit = 5
+  section = "recovery"
+  limit = 10
   show_more = true
-  show_more_text = "See more posts..."
-  show_more_url = "testing"
+  show_more_text = "All posts..."
+  show_more_url = "recovery"
 
 
 [[entries]]
