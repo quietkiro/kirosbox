@@ -1,5 +1,5 @@
 +++
-title = "version 0.0.0 - current situation & start"
+title = "version 0.1.0 - current situation & start"
 date = 2024-06-19
 draft = false
 +++
@@ -83,7 +83,7 @@ To tackle my problems for (hopefully) the last time, I want to use the approach 
 Each post will give updates on the goals of the last post, set new goals, and have updates. I'm hoping for posts to be done once every 4 or so weeks, and updates being done weekly. Post titles will have a [semantic versioning](https://semver.org/)-like label, such that:
 - version x.x.0 -> x.x.1 means a patch is being made. 
 	- That is, the goal wasn't met satisfactorily and some changes need to be made.
-- version x.0.x -> x.1.0 means a minor change has been successfully made. 
+- version x.1.x -> x.2.0 means a minor change has been successfully made. 
 	- That is, the goal was met, and new actions can be taken to fix other problems.
 - version 0.x.x -> 1.x.x means a major change has been successfully made. 
 	- By this point, all of the problems I listed above should be mitigated to some extent, thus marking the end of this series. I may continue version 2.x.x onwards in another chain of posts.
@@ -105,3 +105,20 @@ For now, my priority is to restore some perseverance. To do this, I will be tryi
 
 Small updates will be posted below on a weekly basis for the first 3 weeks. 
 
+**26.06.24** - Week 1
+
+Goal progress
+- No YT/IG - 7/7 (🗸🗸🗸🗸🗸🗸🗸)
+- Bed by midnight - 5/7 (✗🗸🗸🗸🗸🗸✗)
+
+The first couple days were the hardest. Time felt excruciatingly slow, and my lack of social interaction was put in full frame when I had nothing to do. I managed to pull through with the help of some podcasts, music, and playing tetris, but using them extensively may be problematic.
+
+I started creating more social appointments with others, but when I'm not with others, my mental state does take a nosedive. Fortunately, keeping myself busy with tasks has helped to somewhat mitigate it, although my lack of self-organization makes figuring out what to do a challenge.
+
+All that said, I can definitely notice some positive effects so far:
+- I feel like my attention span has definitely been extended; I can now do things for longer without getting distracted. It has also certainly helped with socializing, but listening attentively is still challenging.
+- My sleep has been really good; I don't wake up feeling ultra lethargic anymore, and my body automatically wakes up at around 9 AM.
+- I can maintain strong focus when doing larger tasks in bursts of ~1 hour time blocks, which I haven't been able to do in a while.
+- Getting started with doing things has become less challenging.
+
+Results are better than expected so far, but I hope I'll be able to effectively mitigate the undesirable side-effects soon.
