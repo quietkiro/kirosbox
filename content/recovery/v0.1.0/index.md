@@ -105,7 +105,7 @@ For now, my priority is to restore some perseverance. To do this, I will be tryi
 
 Small updates will be posted below on a weekly basis for the first 3 weeks. 
 
-**26.06.24** - Week 1
+**26.06.24** - Week 1 recap
 
 Goal progress
 - No YT/IG - 7/7 (🗸🗸🗸🗸🗸🗸🗸)
@@ -122,3 +122,20 @@ All that said, I can definitely notice some positive effects so far:
 - Getting started with doing things has become less challenging.
 
 Results are better than expected so far, but I hope I'll be able to effectively mitigate the undesirable side-effects soon.
+
+**03.07.2024** - Week 2 recap
+
+Goal progress:
+- No YT/IG - 7/7 (🗸🗸🗸🗸🗸🗸🗸)
+- Bed by midnight - 4/7 (🗸✗✗🗸🗸🗸✗)
+	- 2 skips remaining
+
+This week was considerably easier. I can definitely feel improvements in thought, as in I can trace back my thoughts more easily and am less likely to lose track of things. I also have noticed pretty significant improvements regarding social skills. Listening skills have improved a bit, and I definitely have an easier time keeping up with conversations.
+
+I've also been unintentionally spending less time in bed, preferring to read books or comics at my desk instead, which has made the bed more of a sleep zone than a chill zone.
+
+Focus has increased further, as I can now work on projects for around 90 minutes without being distracted too much.
+
+I've also been cutting down a bit on podcast usage, as it tends to have a similar effect on me as video content for some reason.
+
+So far so good! 2 weeks left!
