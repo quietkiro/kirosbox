@@ -139,3 +139,13 @@ Focus has increased further, as I can now work on projects for around 90 minutes
 I've also been cutting down a bit on podcast usage, as it tends to have a similar effect on me as video content for some reason.
 
 So far so good! 2 weeks left!
+
+**11.07.2024** - Week 3 recap
+
+Goal progress:
+- No YT/IG - 7/7 (🗸🗸🗸🗸🗸🗸🗸)
+- Bed by midnight - 7/7(🗸🗸🗸🗸🗸🗸🗸)
+
+This week, I felt extremely lazy. I really struggled to get things done. That said, I really don't feel the urge to watch videos anymore. I've been tempted to read books or news instead.
+
+I think for the next version, I'll be decreasing the time for each version from 4 weeks to 2 weeks.
