@@ -38,6 +38,8 @@ In summary, the new goals for the next two weeks are:
 	- No skipping allowed to meet goal
 - Shower before 8 PM, daily.
 	- Allowed to do later in the day only twice during these two weeks to meet goal
+- No social media (specifically IG/YT)
+	- No skipping allowed to meet goal
 
 # Updates
 
