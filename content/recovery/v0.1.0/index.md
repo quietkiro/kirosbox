@@ -105,7 +105,7 @@ For now, my priority is to restore some perseverance. To do this, I will be tryi
 
 Small updates will be posted below on a weekly basis for the first 3 weeks. 
 
-**26.06.24** - Week 1 recap
+## 26.06.24 - Week 1 recap
 
 Goal progress
 - No YT/IG - 7/7 (🗸🗸🗸🗸🗸🗸🗸)
@@ -123,7 +123,7 @@ All that said, I can definitely notice some positive effects so far:
 
 Results are better than expected so far, but I hope I'll be able to effectively mitigate the undesirable side-effects soon.
 
-**03.07.2024** - Week 2 recap
+## 03.07.2024 - Week 2 recap
 
 Goal progress:
 - No YT/IG - 7/7 (🗸🗸🗸🗸🗸🗸🗸)
@@ -140,7 +140,7 @@ I've also been cutting down a bit on podcast usage, as it tends to have a simila
 
 So far so good! 2 weeks left!
 
-**11.07.2024** - Week 3 recap
+## 11.07.2024 - Week 3 recap
 
 Goal progress:
 - No YT/IG - 7/7 (🗸🗸🗸🗸🗸🗸🗸)
